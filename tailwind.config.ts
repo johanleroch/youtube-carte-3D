@@ -13,6 +13,12 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      aspectRatio: {
+        card: "0.71"
+      },
+      borderRadius: {
+        32: "2rem"
+      }
     },
   },
   plugins: [],
